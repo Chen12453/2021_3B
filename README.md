@@ -18,7 +18,7 @@
 
 ˋ2021_3Bˋ
 
-- li todo list
+- [ ] todo list
 - [x] done 1
 - [ ] unfinished
 - [ ] done 2
