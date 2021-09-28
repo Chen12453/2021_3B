@@ -23,10 +23,10 @@
 - [ ] unfinished
 - [x] done 2
 
-'''python
+```=python=
 str = 'This is a String'
 print(str)
-'''
+```
 
 [高科大](https://www.nkust.edu.tw)
 
