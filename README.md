@@ -21,7 +21,11 @@
 - [ ] todo list
 - [x] done 1
 - [ ] unfinished
-- [ ] done 2
+- [x] done 2
+
+'''python
+str = 'This is a String'
+
 
 [高科大](https://www.nkust.edu.tw)
 
