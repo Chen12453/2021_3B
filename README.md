@@ -25,7 +25,8 @@
 
 '''python
 str = 'This is a String'
-
+print(str)
+'''
 
 [高科大](https://www.nkust.edu.tw)
 
