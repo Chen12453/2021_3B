@@ -55,8 +55,8 @@ str = 'This is a String'
 print(str)
 ```
 ```=javascripts=
-var str = 'This is JavaScripts'
-print(str)
+var str = 'This is JavaScripts';
+alert(str);
 ```
 ***
 | Left-Aligned  | Center Aligned  | Right Aligned |
