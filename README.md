@@ -50,11 +50,11 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 - [ ] unfinished
 - [x] done 2
 ***
-```=python=
+```python
 str = 'This is a String'
 print(str)
 ```
-```=javascripts=
+```javascript
 var str = 'This is JavaScripts';
 alert(str);
 ```
