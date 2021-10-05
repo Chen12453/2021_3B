@@ -35,13 +35,13 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 ***
 1. First ordered list item
 2. Another item
-  1. HIHI
+    1. HIHI
 3. Actual
-  1. HIHI
-  2. HIHIHI
+    1. HIHI
+    2. HIHIHI
 4. And other item
-  * HIHI
-  * HIHIHIHI
+    * HIHI
+    * HIHIHIHI
 ***
 
 
